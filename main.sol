@@ -2,8 +2,11 @@
 pragma solidity ^0.8.0;
 
 contract ALANCOIN {
-    string public name = "WALTERCOIN";
-    string public symbol = "WLTR";
+    /** 
+     * Preencha name & symbol da sua crypto
+     */ 
+    string public name = "YOUR_COIN";
+    string public symbol = "YRCN";
     uint8 public decimals = 18;
     uint256 public totalSupply;
 
